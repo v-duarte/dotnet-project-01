@@ -1,0 +1,12 @@
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+F:\UNLP\.NET\Practica\Trabajo_01\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
